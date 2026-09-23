@@ -1,10 +1,9 @@
 <div align="center">
-  <h3>Session</h3>
-  <h1>Activity-Template</h1>
+  <h3>Workshop</h3>
+  <h1>Building Views with SwiftUI</h1>
   <br />
   <a href="https://github.com/developer-academy-unina/Activity-Template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/developer-academy-unina/Activity-Template/discussions">Ask a Question</a>
   
 </div>
   <br />
@@ -12,7 +11,7 @@
   <a href="#" alt="Version">
     <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=brightgreen" />
   </a>
-  <a href="#" alt="XCode Version">
+  <a href="#" alt="Xcode Version">
     <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=13.0&color=brightgreen&logo=xcode" />
   </a>        
   <a href="#" alt="Swift Version">
@@ -43,22 +42,7 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
-
-<summary>Screenshots</summary>
-<br>
-
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+Discover how SwiftUI lets you build fully native apps using Apple's built-in components.
 
 <br />
 
@@ -66,23 +50,7 @@
 
 ### Installation
 
-1. Clone the repo
-
-   ```sh
-   git clone https://github.com/developer-academy-unina/Activity-Template
-   ```
-
-2. Open the ```.xcodeproj``` file
-
-### How to
-
-1. Do Some...
-
-   ```sh
-   git clone https://github.com/developer-academy-unina/Activity-Template
-   ```
-
-2. ...
+To follow the workshop, you can download the repository as a zip file.
 
 <br />
 
@@ -111,9 +79,8 @@ Reach out to the maintainer at one of the following places:
 
 ## Authors & contributors
 
-The original setup of this repository is by [...](https://github.com/...).
+The original setup of this repository is by [Matteo Altobello](https://github.com/Maltob03).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/Activity-Template/contributors).
 
 <br />
 
